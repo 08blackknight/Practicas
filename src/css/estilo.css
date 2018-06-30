@@ -8,17 +8,18 @@ body
 {
 	
 	
-	
-	background-color: grey;
+	background-image: url("../images/background.jpg");
+	/*background-color: grey;*/
 	
 }
 
 .centrar {
     
-    
-    width: 50%;
+    text-align: center;
+    width: 20%;
     margin: auto;
-    padding: 5%;
+
+    
 
 }
 
