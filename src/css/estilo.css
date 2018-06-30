@@ -1,16 +1,40 @@
 div
 {
 	
-	font-size: 18px;
-	color: #FFF;
-	padding-left: 4px;
-	padding-right: 4px;
 	
 }
 
-auxilito
+body
 {
-	font-size: 24px;
+	
+	
+	
+	background-color: grey;
+	
+}
+
+.centrar {
+    
+    
+    width: 50%;
+    margin: auto;
+    padding: 5%;
+
+}
+
+.limpio {
+
+
+}
+
+.recuadro{
 	background-color: black;
-	color: white;
+    width: 450px;
+    border: 25px solid orange;
+    padding: 20px;
+    margin: 35px;
+    color: white;
+	opacity: 0.8;
+	/*PARA CENTRAR*/
+
 }
