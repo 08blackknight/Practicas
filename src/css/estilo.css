@@ -10,15 +10,18 @@ body
 	
 	background-image: url("../images/background.jpg");
 	 background-position: center top;
+	 background-size: cover;
 	/*background-color: grey;*/
 	
 }
 
 .centrar {
     
-    text-align: center;
-    width: 20%;
-    margin: auto;
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
 
     
 
