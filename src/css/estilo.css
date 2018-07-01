@@ -19,7 +19,8 @@ body
     
     display: block;
 	margin-left: auto;
-	margin-right: auto
+	margin-right: auto;
+	
 
 }
 
@@ -30,11 +31,12 @@ body
 
 recuadro{
 	background-color: black;
-    width: 350px;
+    width: 300px;
     border: 25px solid orange;
-    padding: 20px;
+    padding: 15px;
     margin: 35px;
     color: white;
+    border-radius: 8px;
 	opacity: 0.75;
 	/*PARA CENTRAR*/
 
