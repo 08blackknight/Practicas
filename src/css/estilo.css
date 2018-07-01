@@ -7,19 +7,20 @@ div
 body
 {
 	
+	background-image: url("../images/background.jpg") ;
+	background-position: center;
+	background-size: cover;
 	
 	
-	background-color: grey;
 	
 }
 
-.centrar {
+.achicar {
     
+    width: 45%: ;
+    height: auto;
+    padding-right: auto;
     
-    width: 50%;
-    margin: auto;
-    padding: 1%;
-
 }
 
 .limpio {
@@ -27,9 +28,9 @@ body
 
 }
 
-.recuadro{
+recuadro{
 	background-color: black;
-    width: 400px;
+    width: 350px;
     border: 25px solid orange;
     padding: 20px;
     margin: 35px;
