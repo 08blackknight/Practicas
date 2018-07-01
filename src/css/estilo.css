@@ -15,12 +15,12 @@ body
 	
 }
 
-.achicar {
+.centrar {
     
-    width: 45%: ;
-    height: auto;
-    padding-right: auto;
-    
+    display: block;
+	margin-left: auto;
+	margin-right: auto
+
 }
 
 .limpio {
