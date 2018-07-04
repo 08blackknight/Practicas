@@ -44,6 +44,17 @@ body
 
 }
 
+recuadro{
+    background-color: black;
+    width: 400px;
+    border: 25px solid orange;
+    padding: 20px;
+    /*margin: 35px;*/
+    color: white;
+   opacity: 0.85;
+
+}
+
 input {
 	color: black;
 	
